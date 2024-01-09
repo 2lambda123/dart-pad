@@ -1,0 +1,866 @@
+repo_name: 2lambda123/dart-pad
+report_id: cb074fbb7d6ead12b1b08340c147bdac
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:54:56+00:00'
+requested_by: 2lambda123
+provider: github
+branch: main
+detected_tools_count: 67
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/dart-pad
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/2lambda123/dart-pad
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.cloud_build/firebase/Dockerfile
+  detection_source: ".cloud_build/firebase/Dockerfile"
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-30 22:43:54.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/dart-pad
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.cloud_build/firebase/Dockerfile
+  detection_source: ".cloud_build/firebase/Dockerfile"
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-30 22:43:54.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.yaml
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2014-12-04 20:29:33.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/samples/pubspec.yaml
+  detection_source: pkgs/samples/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-10-22 19:29:41.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.cloud_build/firebase/Dockerfile
+  detection_source: ".cloud_build/firebase/Dockerfile"
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-30 22:43:54.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 0.7.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2023-05-01 03:05:50.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/dart-pad
+  detection_source: Repo Metadata
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/sketch_pad/web/codemirror/theme/eclipse.css
+  detection_source: pkgs/sketch_pad/web/codemirror/theme/eclipse.css
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-26 16:48:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  version: 2.2.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.github/workflows/dart_pad.yml
+  detection_source: ".github/workflows/dart_pad.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-01 08:07:09.000000000 Z
+- name: Google Cloud Build
+  description: Continuously build, test, and deploy.
+  website_url: https://cloud.google.com/cloud-build
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Deployment
+  image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.cloud_build/firebase/cloudbuild.yaml
+  detection_source: ".cloud_build/firebase/cloudbuild.yaml"
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-30 22:43:54.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/web/requirements.txt
+  detection_source: pkgs/dart_pad/web/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-10 20:20:00.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.yaml
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2014-12-04 20:29:33.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/sketch_pad/pubspec.yaml
+  detection_source: pkgs/sketch_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-26 16:48:38.000000000 Z
+- name: Debian
+  description: The Universal Operating System
+  website_url: https://www.debian.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/.cloud_build/flutter/Dockerfile
+  detection_source: ".cloud_build/flutter/Dockerfile"
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-30 22:43:54.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/dart-pad
+  detection_source: Repo Metadata
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.yaml
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2014-12-04 20:29:33.000000000 Z
+- name: analysis_server_lib
+  description: A library to access Dart's analysis server API
+  package_url: https://pub.dartlang.org/analysis_server_lib
+  version: 0.2.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-11-27 20:42:21.000000000 Z
+- name: analyzer
+  description: This package provides a library that performs static analysis of Dart
+    code
+  package_url: https://pub.dartlang.org/analyzer
+  version: 6.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-11-27 20:42:21.000000000 Z
+- name: args
+  description: Library for defining parsers for parsing raw command-line arguments
+    into a set of options and values using GNU and POSIX style options
+  package_url: https://pub.dartlang.org/args
+  version: 2.4.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-06 17:34:54.000000000 Z
+- name: async
+  description: Utility functions and classes related to the 'dart:async' library
+  package_url: https://pub.dartlang.org/async
+  version: 2.11.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-20 21:31:21.000000000 Z
+- name: bazel_worker
+  description: Protocol and utilities to implement or invoke persistent bazel workers
+  package_url: https://pub.dartlang.org/bazel_worker
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-10-24 20:46:02.000000000 Z
+- name: build_runner
+  description: A build system for Dart code generation and modular compilation
+  package_url: https://pub.dartlang.org/build_runner
+  version: 2.4.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2023-05-23 17:50:12.000000000 Z
+- name: build_runner_core
+  description: Core tools to organize the structure of a build and run Builders
+  package_url: https://pub.dartlang.org/build_runner_core
+  version: 7.2.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/sketch_pad/pubspec.yaml
+  last_updated_by: Moritz
+  last_updated_on: 2023-12-08 11:23:31.000000000 Z
+- name: build_test
+  description: Utilities for writing unit tests of Builders
+  package_url: https://pub.dartlang.org/build_test
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2023-05-23 17:50:12.000000000 Z
+- name: build_web_compilers
+  description: Builder implementations wrapping the dart2js and DDC compilers
+  package_url: https://pub.dartlang.org/build_web_compilers
+  version: 4.0.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-22 17:09:40.000000000 Z
+- name: checked_yaml
+  description: Generate more helpful exceptions when decoding YAML documents using
+    package:json_serializable and package:yaml
+  package_url: https://pub.dartlang.org/checked_yaml
+  version: 2.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-05-15 03:47:28.000000000 Z
+- name: codemirror
+  description: A Dart wrapper around the CodeMirror text editor
+  package_url: https://pub.dartlang.org/codemirror
+  version: 0.7.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2023-05-01 03:05:50.000000000 Z
+- name: collection
+  description: Collections and utilities functions and classes related to collections
+  package_url: https://pub.dartlang.org/collection
+  version: 1.18.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-16 20:36:54.000000000 Z
+- name: convert
+  description: Utilities for converting between data representations
+  package_url: https://pub.dartlang.org/convert
+  version: 3.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-10-18 00:40:20.000000000 Z
+- name: crypto
+  description: Implementations of SHA
+  package_url: https://pub.dartlang.org/crypto
+  version: 3.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-09-14 22:48:44.000000000 Z
+- name: encrypt
+  description: A set of high-level APIs over PointyCastle for two-way cryptography
+  package_url: https://pub.dartlang.org/encrypt
+  version: 5.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Tim Maffett
+  last_updated_on: 2022-06-27 21:27:24.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/samples/pubspec.yaml
+  detection_source: pkgs/samples/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-10-22 19:29:41.000000000 Z
+- name: git
+  description: Git command line wrapper
+  package_url: https://pub.dartlang.org/git
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2014-12-04 20:29:33.000000000 Z
+- name: grinder
+  description: Grinder is a task runner for Dart
+  package_url: https://pub.dartlang.org/grinder
+  version: 0.9.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-05-02 00:23:00.000000000 Z
+- name: html_unescape
+  description: A small library for un-escaping HTML
+  package_url: https://pub.dartlang.org/html_unescape
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Sam Rawlins
+  last_updated_on: 2021-11-16 17:49:06.000000000 Z
+- name: http
+  description: A composable
+  package_url: https://pub.dartlang.org/http
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-20 15:37:20.000000000 Z
+- name: intl
+  description: Contains code to deal with internationalized/localized messages
+  package_url: https://pub.dartlang.org/intl
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/sketch_pad/pubspec.yaml
+  detection_source: pkgs/sketch_pad/pubspec.yaml
+  last_updated_by: Moritz
+  last_updated_on: 2023-12-08 10:37:34.000000000 Z
+- name: js
+  description: Annotations to create static Dart interfaces for JavaScript APIs
+  package_url: https://pub.dartlang.org/js
+  version: 0.6.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2014-12-04 20:29:33.000000000 Z
+- name: json_annotation
+  description: Classes and helper functions that support JSON code generation via
+    the `json_serializable` package
+  package_url: https://pub.dartlang.org/json_annotation
+  version: 4.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-16 20:36:54.000000000 Z
+- name: json_serializable
+  description: Automatically generate code for converting to and from JSON by annotating
+    Dart classes
+  package_url: https://pub.dartlang.org/json_serializable
+  version: 6.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-16 20:36:54.000000000 Z
+- name: logging
+  description: Provides APIs for debugging and error logging
+  package_url: https://pub.dartlang.org/logging
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-06-02 02:03:06.000000000 Z
+- name: markdown
+  description: A portable Markdown library written in Dart that can parse Markdown
+    into HTML
+  package_url: https://pub.dartlang.org/markdown
+  version: 7.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-16 01:28:26.000000000 Z
+- name: mdc_web
+  description: Dart wrapper for the material-components-web javascript library
+  package_url: https://pub.dartlang.org/mdc_web
+  version: 0.6.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-22 17:09:40.000000000 Z
+- name: meta
+  description: Annotations used to express developer intentions that can't otherwise
+    be deduced by statically analyzing source code
+  package_url: https://pub.dartlang.org/meta
+  version: 1.11.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-23 21:43:02.000000000 Z
+- name: package_config
+  description: Support for reading and writing Dart Package Configuration files
+  package_url: https://pub.dartlang.org/package_config
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-21 04:17:40.000000000 Z
+- name: path
+  description: A string-based path manipulation library
+  package_url: https://pub.dartlang.org/path
+  version: 1.8.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-20 15:37:20.000000000 Z
+- name: provider
+  description: A wrapper around InheritedWidget to make them easier to use and more
+    reusable
+  package_url: https://pub.dartlang.org/provider
+  version: 6.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/sketch_pad/pubspec.yaml
+  detection_source: pkgs/sketch_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-26 16:48:38.000000000 Z
+- name: pub_semver
+  description: Versions and version constraints implementing pub's versioning policy
+  package_url: https://pub.dartlang.org/pub_semver
+  version: 2.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2023-04-21 17:41:10.000000000 Z
+- name: resp_client
+  description: A RESP
+  package_url: https://pub.dartlang.org/resp_client
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2021-06-26 22:54:59.000000000 Z
+- name: sass_builder
+  description: Transpile sass files using the "build" package
+  package_url: https://pub.dartlang.org/sass_builder
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-22 17:09:40.000000000 Z
+- name: shelf
+  description: A model for web server middleware that encourages composition and easy
+    reuse
+  package_url: https://pub.dartlang.org/shelf
+  version: 1.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2022-06-07 12:35:13.000000000 Z
+- name: shelf_router
+  description: A convenient request router for the shelf web-framework
+  package_url: https://pub.dartlang.org/shelf_router
+  version: 1.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-11 03:57:39.000000000 Z
+- name: shelf_router_generator
+  description: A package:build-compatible builder for generating request routers for
+    the shelf web-framework based on source annotations
+  package_url: https://pub.dartlang.org/shelf_router_generator
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-10-22 19:29:41.000000000 Z
+- name: shelf_static
+  description: Static file server support for the shelf package and ecosystem
+  package_url: https://pub.dartlang.org/shelf_static
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-10-16 20:36:54.000000000 Z
+- name: split
+  description: Minimal package containing 'split' third_party dependency used by package:devtools
+  package_url: https://pub.dartlang.org/split
+  version: 0.0.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2023-06-27 20:52:43.000000000 Z
+- name: stream_transform
+  description: A collection of utilities to transform and manipulate streams
+  package_url: https://pub.dartlang.org/stream_transform
+  version: 2.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-10-22 19:29:41.000000000 Z
+- name: synchronized
+  description: Lock mechanism to prevent concurrent access to asynchronous code
+  package_url: https://pub.dartlang.org/synchronized
+  version: 3.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-20 21:31:21.000000000 Z
+- name: test
+  description: A full featured library for writing and running Dart tests across platforms
+  package_url: https://pub.dartlang.org/test
+  version: 1.24.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-05-15 03:47:28.000000000 Z
+- name: test_descriptor
+  description: An API for defining and verifying directory structures
+  package_url: https://pub.dartlang.org/test_descriptor
+  version: 2.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_services/pubspec.lock
+  detection_source: pkgs/dart_services/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-11-27 20:42:21.000000000 Z
+- name: url_launcher
+  description: Flutter plugin for launching a URL
+  package_url: https://pub.dartlang.org/url_launcher
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/sketch_pad/pubspec.yaml
+  detection_source: pkgs/sketch_pad/pubspec.yaml
+  last_updated_by: Devon Carew
+  last_updated_on: 2023-06-26 16:48:38.000000000 Z
+- name: webdriver
+  description: Provides WebDriver bindings for Dart
+  package_url: https://pub.dartlang.org/webdriver
+  version: 3.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-01-26 02:15:17.000000000 Z
+- name: yaml
+  description: A parser for YAML
+  package_url: https://pub.dartlang.org/yaml
+  version: 3.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/pubspec.lock
+  detection_source: pkgs/dart_pad/pubspec.yaml
+  last_updated_by: Parker Lougheed
+  last_updated_on: 2023-05-15 03:47:28.000000000 Z
+- name: Flask
+  description: A simple framework for building complex web applications
+  package_url: https://pypi.org/project/Flask
+  version: 2.3.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/2lambda123/dart-pad/blob/main/pkgs/dart_pad/web/requirements.txt
+  detection_source: pkgs/dart_pad/web/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-10 20:20:00.000000000 Z
